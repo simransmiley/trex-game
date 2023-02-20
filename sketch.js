@@ -20,7 +20,7 @@ function preload(){
 } 
 
 function setup(){
-  createCanvas(windowWidth-20,windowHeight-20)
+  createCanvas(windowWidth,windowHeight)
 
   
   randomNumber=Math.round(random(1,10))
